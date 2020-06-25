@@ -9,5 +9,5 @@ To Use:
   
 Output:
 
-![Image of Output] (https://i.ibb.co/jGxKYBB/Screen-Shot-2020-06-25-at-1-50-47-AM.png)
+![alt text](https://i.ibb.co/jGxKYBB/Screen-Shot-2020-06-25-at-1-50-47-AM.png)
   
